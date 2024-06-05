@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4uq7NeWDCdlDYYYBRNradseq1uJfyEZ7fV47A34zt6M=",
+  "Source": "FlightRestApi",
+  "BasePath": "_content/FlightRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
